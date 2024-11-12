@@ -1,6 +1,7 @@
 ![MasterHead](https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif)
 ## Hi there , I'm Sandeep 😸
 **`Student/Artist/Designer`**
+
 I'm an indie developer with a keen interest in web development, data analysis, and game development. I'm currently focused on strengthening my foundation in core programming concepts. I'm eager to contribute to open-source projects and collaborate with other developers.
 
 Beyond coding, I enjoy designing and creating digital art. I believe that a strong foundation in both technical and creative skills is essential for building exceptional products.
