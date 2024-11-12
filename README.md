@@ -7,6 +7,10 @@ I'm an indie developer with a keen interest in web development, data analysis, a
 Beyond coding, I enjoy designing and creating digital art. I believe that a strong foundation in both technical and creative skills is essential for building exceptional products.
 I'm always open to collaboration and learning new technologies. Let's connect!
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://instagram.com/sandeep0w0" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32320&format=png&color=FFFFFF" alt="sandeep0w0" height="50" width="50" /></a>
+</p>
 <!--
 **273kanna/273kanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
