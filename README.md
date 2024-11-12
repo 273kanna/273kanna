@@ -1,4 +1,6 @@
-![MasterHead](https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif)
+<div style="text-align: center;">
+  <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif" alt="MasterHead">
+</div>
 ## Hi there , I'm Sandeep 😸
 **`Student/Artist/Designer`**
 
