@@ -1,6 +1,9 @@
 ![MasterHead](https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif)
-## Hi there 🫰
-<h4>I'm an indie developer with a keen interest in web development, data analysis, and game development. I'm proficient in Java, C, Python, and MySQL, and have experience with Node.js and Next.js. Currently, I'm focused on building a full-stack web application to track my gaming progress. I'm always open to collaboration and learning new technologies. Let's connect!</h4>
+## Hi there , I'm Sandeep🫰
+I'm an indie developer with a keen interest in web development, data analysis, and game development. I'm currently focused on strengthening my foundation in core programming concepts. I'm eager to contribute to open-source projects and collaborate with other developers.
+
+Beyond coding, I enjoy designing and creating digital art. I believe that a strong foundation in both technical and creative skills is essential for building exceptional products.
+I'm always open to collaboration and learning new technologies. Let's connect!
 <!--
 **273kanna/273kanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
