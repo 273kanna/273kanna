@@ -1,6 +1,6 @@
-<h1 align="center">![MasterHead](https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif)</h1>
+![MasterHead](https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif)
 ## Hi there 👋
-I'm an indie developer with a keen interest in web development, data analysis, and game development. I'm proficient in Java, C, Python, and MySQL, and have experience with Node.js and Next.js. Currently, I'm focused on building a full-stack web application to track my gaming progress. I'm always open to collaboration and learning new technologies. Let's connect!
+<h1 align="center">I'm an indie developer with a keen interest in web development, data analysis, and game development. I'm proficient in Java, C, Python, and MySQL, and have experience with Node.js and Next.js. Currently, I'm focused on building a full-stack web application to track my gaming progress. I'm always open to collaboration and learning new technologies. Let's connect!</h1>
 <!--
 **273kanna/273kanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
