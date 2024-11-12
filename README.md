@@ -1,9 +1,11 @@
-![MasterHead](https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif)
-## Hi there , I'm Sandeep🫰
+![MasterHead](https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif)
+## Hi there , I'm Sandeep 😸
+**`Student/Artist/Designer`**
 I'm an indie developer with a keen interest in web development, data analysis, and game development. I'm currently focused on strengthening my foundation in core programming concepts. I'm eager to contribute to open-source projects and collaborate with other developers.
 
 Beyond coding, I enjoy designing and creating digital art. I believe that a strong foundation in both technical and creative skills is essential for building exceptional products.
 I'm always open to collaboration and learning new technologies. Let's connect!
+
 <!--
 **273kanna/273kanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
