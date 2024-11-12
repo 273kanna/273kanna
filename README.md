@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif" alt="MasterHead">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&size=30&pause=1000&color=FF8E8E&width=435&lines=Hello+there%2C+I'm+Sandeep+%F0%9F%98%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&size=30&pause=1000&color=FF8E8E&width=435&lines=Hello+there%2C+I'm+Sandeep+%F0%9F%98%B8;Aspiring+Game+Dev)](https://git.io/typing-svg)
 
 **`Student/Artist/Designer`**
 
