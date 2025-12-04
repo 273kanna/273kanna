@@ -2,11 +2,11 @@
   <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif" alt="MasterHead">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&size=30&pause=1000&color=FF8E8E&width=435&lines=Hello+there%2C+I'm+Sandeep+%F0%9F%98%B8;Aspiring+Game+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&size=30&pause=1000&color=FF8E8E&width=435&lines=Hello+there%2C+I'm+Sandeep+%F0%9F%98%B8;Aspiring+Dev)](https://git.io/typing-svg)
 
 **`Student/Artist/Designer`**
 
-I'm an Indie developer with a keen interest in web development, data analysis, and game development. I'm currently focused on strengthening my foundation in core programming concepts. I'm eager to contribute to open-source projects and collaborate with other developers.
+I'm an Indie developer with a keen interest in web development, AI development and game development. I'm currently focused on strengthening my foundation in core programming concepts. I'm eager to contribute to open-source projects and collaborate with other developers.
 
 Beyond coding, I enjoy designing and creating digital art. I believe that a strong foundation in both technical and creative skills is essential for building exceptional products.
 I'm always open to collaboration and learning new technologies. Let's connect!
