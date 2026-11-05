@@ -6,7 +6,7 @@
 
 **`Student/Artist/Designer`**
 
-I'm an Indie developer with a keen interest in web development, AI development and game development. I'm currently focused on strengthening my foundation in core programming concepts. I'm eager to contribute to open-source projects and collaborate with other developers.
+I'm an Indie developer with a keen interest in Web development, AI development and Automation. I'm currently focused on strengthening my foundation in core programming concepts. I'm eager to contribute to open-source projects and collaborate with other developers.
 
 Beyond coding, I enjoy designing and creating digital art. I believe that a strong foundation in both technical and creative skills is essential for building exceptional products.
 I'm always open to collaboration and learning new technologies. Let's connect!
